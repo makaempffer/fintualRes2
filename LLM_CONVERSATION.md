@@ -114,3 +114,9 @@ La verdad es que el código original funcionaba, pero estos cambios lo hacen muc
 - VS Code
 - GitHub Copilot para ayudar con sugerencias y revisar la estructura
 - Type hints de la librería typing estándar de Python
+
+
+# Ayudas adicionales
+- Me ayudé también a haciendo preguntas de cómo hacer ciertas cosas propias de python,
+que yo las considero como "buenas prácticas", ya que inicialmente me gustaría hacer esto en java pero no tengo tiempo.
+
